@@ -1,13 +1,13 @@
 ---
 layout: page
-navname: About
+navname: Despre
 ---
 
-# {{ site.serverName }}
+# Cine suntem?
 
-Coming soon
+Loot Network este o comunitate de minecraft infiintata in anul 2020 si redeschisa in anul 2022.
 
 
-# Privacy Policy
+# Informatii suplimentare
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
+Va asteptam pe serverul de Discord sau pe pagina de Wikipedia pentru informatii suplimentare.
