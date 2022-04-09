@@ -8,7 +8,7 @@ cellLinks:
     curl: wiki
     cimage: media/lobby.jpg
 
-  - cname: Vote
+  - cname: Voteaza
     curl: vote
     cimage: media/lobby.jpg
 
