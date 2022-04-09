@@ -23,7 +23,7 @@
         {% if site.siteNav %}
         document.getElementById("serverInd").classList.add("text-red-600");
         {% else %}
-        document.getElementById("serverStatus").innerHTML = `<p class="font-bold select-none"><span class="text-red-600">&#11044;</span>&emsp;Offline</p>`;
+        document.getElementById("serverStatus").innerHTML = `<p class="font-bold select-none"><span class="text-red-600">&#11044;</span>&emsp;Sorry! We're offline...</p>`;
         document.getElementById("serverStatusM").innerHTML = `<p class="font-bold select-none"><span class="text-red-600">&#11044;</span>&emsp;Offline</p>`;
         {% endif %}
     }
